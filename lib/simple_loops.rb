@@ -17,8 +17,8 @@ end
 
 def output_array(array)
   counter = 0
-  while counter < array do
-    puts \n + string
+  while counter <= array do
+    puts \nstring
     counter += 1
   end
 end
