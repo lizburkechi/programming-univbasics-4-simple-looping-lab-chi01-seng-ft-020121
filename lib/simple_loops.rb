@@ -17,7 +17,7 @@ end
 
 def output_array(array)
   counter = 0
-  while counter <= array.to_i do
+  while counter <= array.length do
     puts string
     counter += 1
   end
