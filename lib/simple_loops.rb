@@ -14,3 +14,11 @@ while counter <= integer do
   counter += 1
   end
 end
+
+def output_array(array)
+  counter = 0
+  while counter < array do
+    puts \n + string
+    counter += 1
+  end
+end
