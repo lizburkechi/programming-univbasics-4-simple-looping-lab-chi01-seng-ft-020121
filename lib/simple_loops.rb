@@ -18,7 +18,7 @@ end
 def output_array(array)
   counter = 0
   while counter <= array do
-    puts \nstring
+    puts string
     counter += 1
   end
 end
