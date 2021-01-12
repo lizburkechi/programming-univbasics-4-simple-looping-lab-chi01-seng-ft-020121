@@ -24,5 +24,8 @@ def output_array(array)
 end
 
 def return_string_array(array)
-
+counter = 0
+while counter <= array.length
+  array
+  counter += 1
 end
