@@ -12,5 +12,5 @@ counter = 0
 while counter <= integer do
   puts string
   counter += 1
-end
+  end
 end
