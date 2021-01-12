@@ -29,3 +29,4 @@ while counter <= array.length
   counter += 1
   array
 end
+end
